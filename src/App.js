@@ -5,7 +5,7 @@ import './App.css';
 import "./sb-admin-2.min.css";
 import Dashboard from './Dashboard';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Login from './Login';
+import Login from './pages/auth/Login';
 import Userlist from './pages/user/Userlist';
 import Portal from './Portal';
 import UserCreate from './pages/user/UserCreate';
